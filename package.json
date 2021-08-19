@@ -7,7 +7,7 @@
     "test": "echo \"Error: no test specified\" && exit 1",
     "start": "node server.js"
   },
-  "author": "",
+  "author": "Steve Fokas",
   "license": "MIT",
   "dependencies": {
     "express": "^4.17.1",
@@ -21,5 +21,11 @@
   "bugs": {
     "url": "https://github.com/sf487552/Note-Taker-/issues"
   },
-  "homepage": "https://github.com/sf487552/Note-Taker-#readme"
+  "homepage": "https://github.com/sf487552/Note-Taker-#readme",
+  "keywords": [
+    "note",
+    "taking",
+    "app",
+    "heroku"
+  ]
 }
